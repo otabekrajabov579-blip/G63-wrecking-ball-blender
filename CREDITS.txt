@@ -1,0 +1,19 @@
+Video titrlariga qo'shish kerak (CC-BY-4.0 talabi):
+
+This work is based on "Mersedes-Benz G63 AMG"
+(https://sketchfab.com/3d-models/mersedes-benz-g63-amg-e5e2a1d2238048a1a494b3df983c16bb)
+by Black Snow (https://sketchfab.com/BlackSnow02)
+licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+Boshqa resurslar (CC0, kreditsiz ishlatish mumkin):
+- Poly Haven: hilltop_construction HDRI, gravel_concrete, concrete_wall_008, rust_coarse_01,
+  concrete_road_barrier, Barrel_01, old_tyre, wooden_crate_01 (https://polyhaven.com)
+- Tovush effektlari: scripts/make_sounds.py bilan sintez qilingan (o'zingizniki)
+
+Videodagi ovozlar (yakuniy miks: assets/sounds/final_mix.wav, scripts/mix_audio.py):
+- BBC Sound Effects (https://sound-effects.bbcrewind.co.uk), RemArc litsenziyasi - shaxsiy,
+  ta'lim va tadqiqot maqsadida foydalanish mumkin (tijoriy foydalanish mumkin emas).
+  Yozuvlar: 00008018 (Building site), 07032345 (25-ton mobile crane), 07037370/07037373 (metal squeak),
+  07011077 (chain bolt), 07065153 (Ball & chain demolition), 07022351 (car crash), 07022366/07022318
+  (metal crash), 07054042/07022373 (metallic impact), 07022393/07022488/07022493 (glass crash),
+  07043175 (car alarm). Video tagiga: "Sound effects: BBC Sound Effects (RemArc licence)".
